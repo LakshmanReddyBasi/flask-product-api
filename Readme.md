@@ -1,4 +1,4 @@
-# Product Management API - Flask Assignment
+# Product Management API - Flask 
 
 This project is a REST API for managing a product inventory, built with Python and Flask.
 
@@ -38,7 +38,8 @@ python app.py
 ```
 The server will start on `http://127.0.0.1:5000`.
 then go to the products route-- `http://127.0.0.1:5000/products`
-there , you can see the data present in our database
+there , you can see the data present in our database in the JSON format
 
 ## Testing the API
+
 The `Product_API.postman_collection.json` file can be imported into Postman to test all the available API endpoints.
